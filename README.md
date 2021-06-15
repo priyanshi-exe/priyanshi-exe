@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/priyanshi3008" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshi3008?logo=twitter&style=for-the-badge" alt="priyanshi3008" /></a> </p>
 
 - 🔭 I’m currently working on **my problem solving skills**
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Front End Development**
 - 👨‍💻 My Website- [https://priyanshi-3008.github.io/AboutMe/](https://priyanshi-3008.github.io/AboutMe/)
 - 📫 How to reach me **priyanshi30082000@gmail.com**
 - 😄 Pronouns: **She/Her**
