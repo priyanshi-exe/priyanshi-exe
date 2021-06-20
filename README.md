@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my problem solving skills**
 - 🌱 I’m currently learning **Front End Development**
-- 👨‍💻 My Website- [https://priyanshi-3008.github.io](https://priyanshi-3008.github.io/AboutMe/)
+- 👨‍💻 My Website- [https://priyanshi-3008.github.io](https://priyanshi-3008.github.io)
 - 📫 Reach me at **priyanshi30082000@gmail.com**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact **I love reading books. Occasionally, I am a writer too.**
