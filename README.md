@@ -7,7 +7,7 @@
 
 - My Website- [priyanshi-3008.github.io](https://priyanshi-3008.github.io/)
 
-- Reach me at **priyanshi30082000@gmail.com**
+- Reach me at **priyanshi.exe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
