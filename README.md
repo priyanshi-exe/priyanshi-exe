@@ -5,7 +5,7 @@
 
 - I’m currently learning **Front End Development**
 
-- My Website- [priyanshi-3008.github.io](https://priyanshi-3008.github.io/)
+- My Website- [priyanshi-exe.github.io](https://priyanshi-exe.github.io/)
 
 - Reach me at **priyanshi.exe@gmail.com**
 
