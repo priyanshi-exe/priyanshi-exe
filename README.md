@@ -3,11 +3,7 @@
 
 - I’m currently working on **improving my Data Structures and Algorithms**
 
-- I’m currently learning **Front End Development**
-
 - My Website- [priyanshi-exe.github.io](https://priyanshi-exe.github.io/)
-
-- Reach me at **priyanshi.exe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,7 +13,7 @@
 <a href="https://www.codechef.com/users/priyanshi3008" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="priyanshi3008" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/priyanshi3008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="priyanshi3008" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/priyanshi.exe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="priyanshi.exe" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/priyanshi30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshi30" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/priyanshi3008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshi3008" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
