@@ -1,5 +1,8 @@
 <img src="github-header-image.png">
 
+- 💻 Former SWE Intern at **Salesforce**
+
+- 👨‍🎓 B.Tech Graduate (**Dept. of Computer Science and Technology, IIEST, Shibpur**)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyanshi-exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshi-exe" height="30" width="40" /></a>
